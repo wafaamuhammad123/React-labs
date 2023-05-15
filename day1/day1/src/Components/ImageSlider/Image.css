@@ -1,0 +1,29 @@
+
+img{
+    margin-left: 35%;
+    margin-bottom: 2%;
+}
+
+
+ .btn {
+    
+  margin-left: 25%;
+
+}
+
+.btn button{
+    width: 15%;
+    margin-left: 2%;
+    background-color: #2c9082;
+    color: white;
+    border: none;
+    height: 32px;
+    font-weight: 600;
+   
+}
+
+.btn button:hover{
+    background-color: white;
+    color: #2c9082;
+    border: 1px solid #2c9082;
+}
