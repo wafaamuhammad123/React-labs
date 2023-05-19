@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+  }
+  .nam {
+    font-size: 1.6em;
+    font-weight: 700;
+  }
+  .data {
+    margin-bottom: 1.1em;
+    opacity: .7;
+  }
+  .age{
+    font-size: 1.6em;
+  }
+  .head{
+    width: 30%;
+    border: 1px solid black;
+    margin-top: 2%;
+    padding: 5%;
+    
+  }
+  
+  .imgg {
+    border: 5px solid #fff;
+    max-width: 70%;
+  
+  }

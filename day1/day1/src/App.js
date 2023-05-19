@@ -1,6 +1,6 @@
-import Input from "./Components/Input/Input.js";
+import Input from "./Components/day1/Input/Input.js";
 // import ElementsFunctional from "./Components/FunComp";
-import ImageSlider from "./Components/ImageSlider/ImageSlider";
+import ImageSlider from "./Components/day1/ImageSlider/ImageSlider";
 
 function App(){
     return (
